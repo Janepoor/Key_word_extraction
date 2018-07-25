@@ -5,9 +5,9 @@ import csv
 import json
 import openpyxl
 
-INPUT_FILE = '/Users/jianpuma/vwh/doc/input/VWH_CIP_Pool1_servicing_comments.csv'
-MAPPING_FILE = '/Users/jianpuma/vwh/doc/keyword search/AMC_keyword_category_mapping.csv'
-OUT_FILE = '/Users/jianpuma/vwh/doc/output/outfile.csv'
+INPUT_FILE = ''
+MAPPING_FILE = ''
+OUT_FILE = ''
 
 
 def extract_comment(input):
